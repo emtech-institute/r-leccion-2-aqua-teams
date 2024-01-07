@@ -5,4 +5,4 @@ install.packages("dslabs")
 library(dslabs)
 
 #calcular propina
-0.15 * 19.71  
+0.15 * 19.71
